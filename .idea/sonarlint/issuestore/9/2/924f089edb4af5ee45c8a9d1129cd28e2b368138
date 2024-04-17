@@ -1,0 +1,13 @@
+
+V
+java:S1220""Move this file to a named package.J$5650caa6-4841-4669-9a27-013aba4bc038
+L	java:S106
+"+Replace this use of System.out by a logger.(•áìÀøÿÿÿÿ8³¶äî1
+L	java:S106"+Replace this use of System.out by a logger.(íù· øÿÿÿÿ8´¶äî1
+L	java:S106"+Replace this use of System.out by a logger.(éÅ÷ğüÿÿÿÿ8µ¶äî1
+H
+java:S1481!"+Remove this unused "number" local variable.(ëğ‹8·¶äî1
+G	java:S106#"+Replace this use of System.out by a logger.(ß†÷Œ8·¶äî1
+G	java:S106("+Replace this use of System.out by a logger.(¬ØÀ8¸¶äî1
+G	java:S1060"+Replace this use of System.out by a logger.(áŞØè8¹¶äî1
+F	java:S1062"+Replace this use of System.out by a logger.(çÊé%8º¶äî1
